@@ -3,7 +3,7 @@ if not isfolder("HELLO") then
 	makefolder("HELLO")
 end
 
---loadstring(game:HttpGet("https://raw.githubusercontent.com/mafuasahina/whatever/main/sharkbite2"))()
+--loadstring(game:HttpGet("https://github.com/medusakandsss/lua9/blob/main/scripts.lua"))()
 
 local Rayfield = loadstring(game:HttpGet("https://sirius.menu/rayfield"))()
 
